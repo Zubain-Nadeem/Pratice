@@ -1,1 +1,1 @@
-# Pratice of 
+# Pratice of js
